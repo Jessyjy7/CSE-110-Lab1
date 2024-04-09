@@ -1,5 +1,6 @@
 # **Jiaying's User Page**
 Hi, this is Jiaying, and you may call me Jessie.
+![Image](PassportPic.JPG)
 
 ## _Me As A Programmer_
 ```
