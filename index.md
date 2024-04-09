@@ -27,13 +27,13 @@ int main() {
 ```
 
 I just said hi to you using the coding languages I know. As a senior of Math-CS major, I learned many practical skills of computer science, such as
-- [] OOP
-- [] Data Structure
-- [] Algorithms
-- [] Computer Architecture
-- [] Digital Circuits Design
-- [] Computatibility and Cryptography
-- [] A little Front End(HTML, CSS, JavaScript)
+- [x] OOP
+- [x] Data Structure
+- [x] Algorithms
+- [x] Computer Architecture
+- [x] Digital Circuits Design
+- [x] Computatibility and Cryptography
+- [x] A little Front End(HTML, CSS, JavaScript)
 
 This is my [GitHub Page](https://github.com/Jessyjy7?tab=repositories).
 
