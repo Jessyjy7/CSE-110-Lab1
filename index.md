@@ -61,6 +61,7 @@ I'm a trilinguist:
 * And the next one I'm planning to learn is Korean
 
 I also attached some of my old painting, sketchs, and calligraph practices if you are interested. 
+
 [Art 1](https://github.com/Jessyjy7/CSE-110-Lab1/blob/main/13296918-D39E-401E-B786-612B344611F9.jpeg)
 
 [Art 2](https://github.com/Jessyjy7/CSE-110-Lab1/blob/main/3567AA4F-A9CA-4D4C-8635-06BB3543DB2E.jpeg)
