@@ -1,6 +1,6 @@
 # **Jiaying's User Page**
 Hi, this is Jiaying, and you may call me Jessie.
-![Image](PassportPic.JPG)
+[Passport Picture](https://github.com/Jessyjy7/CSE-110-Lab1/blob/main/PassportPic.JPG)
 
 ## _Me As A Programmer_
 ```
