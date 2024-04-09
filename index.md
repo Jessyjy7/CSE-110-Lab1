@@ -61,11 +61,16 @@ I'm a trilinguist:
 * And the next one I'm planning to learn is Korean
 
 I also attached some of my old painting, sketchs, and calligraph practices if you are interested. 
-[Art 1]([https://github.com/Jessyjy7/CSE-110-Lab1/blob/main/PassportPic.JPG](https://github.com/Jessyjy7/CSE-110-Lab1/blob/main/13296918-D39E-401E-B786-612B344611F9.jpeg))
-[Art 2]([https://github.com/Jessyjy7/CSE-110-Lab1/blob/main/PassportPic.JPG](https://github.com/Jessyjy7/CSE-110-Lab1/blob/main/3567AA4F-A9CA-4D4C-8635-06BB3543DB2E.jpeg))
-[Art 3](https://github.com/Jessyjy7/CSE-110-Lab1/blob/main/PassportPic.JPG)
-[Art 4](https://github.com/Jessyjy7/CSE-110-Lab1/blob/main/PassportPic.JPG)
-[Art 5](https://github.com/Jessyjy7/CSE-110-Lab1/blob/main/PassportPic.JPG)
-[Art 6](https://github.com/Jessyjy7/CSE-110-Lab1/blob/main/PassportPic.JPG)
+[Art 1](https://github.com/Jessyjy7/CSE-110-Lab1/blob/main/13296918-D39E-401E-B786-612B344611F9.jpeg)
+
+[Art 2](https://github.com/Jessyjy7/CSE-110-Lab1/blob/main/3567AA4F-A9CA-4D4C-8635-06BB3543DB2E.jpeg)
+
+[Art 3](https://github.com/Jessyjy7/CSE-110-Lab1/blob/main/7FDEE564-573B-45B7-8D22-4B5FDE283316.jpeg)
+
+[Art 4](https://github.com/Jessyjy7/CSE-110-Lab1/blob/main/9337CE83-6243-4D36-8B70-03A3B07DFFE1.jpeg)
+
+[Art 5](https://github.com/Jessyjy7/CSE-110-Lab1/blob/main/AEDA2CD1-5C72-4B32-AC35-0886B2A5A330.jpeg)
+
+[Art 6](https://github.com/Jessyjy7/CSE-110-Lab1/blob/main/94A72B3E-D3EF-4644-805C-07D0C249D416.jpeg)
 
 
