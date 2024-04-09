@@ -25,6 +25,7 @@ int main() {
     return 0;
 }
 ```
+
 I just said hi to you using the coding languages I know. As a senior of Math-CS major, I learned many practical skills of computer science, such as
 - [] OOP
 - [] Data Structure
@@ -38,8 +39,11 @@ This is my [GitHub Page](https://github.com/Jessyjy7?tab=repositories).
 
 ## _Me As A Person_
 >_“明知不可而为之”_
+
 >_”Do it knowing it is impossible“_
+
 Above is my favorite phrase in Chinese. As an international student from China, I started to study abroad since Sophomore year of high school. This quote has being motivating me to move forward to every new chapter of my life.
+
 I have a lot of hobbies for the tiny free time I have besides course work:
 * Badminton
 * Cooking Chineese Cuisine
